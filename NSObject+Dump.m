@@ -1,6 +1,5 @@
 //
 //  NSObject+Dump.m
-//  kupiVip
 //
 //  Created by Igor Poltavtsev on 10.07.16.
 //  Copyright © 2016 kupivip.ru. All rights reserved.
